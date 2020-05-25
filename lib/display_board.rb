@@ -7,7 +7,6 @@ def display_board
  puts "      |       |      "
  end
  display_board
-What move would X like to make (1-9)?
->3
+
 
 
