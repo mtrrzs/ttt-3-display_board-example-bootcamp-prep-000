@@ -8,4 +8,7 @@ def display_board
  end
  display_board
  
- 
+What move would X like to make (1-9)?
+>3
+
+
